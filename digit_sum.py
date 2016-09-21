@@ -1,10 +1,8 @@
 def digit_sum(n):
-    sum_list = []
+    y = 0
     while n != 0:
-        x=n%10
-        sum_list.append(x)
-        n = n//10
-    else:
-        for y in sum_list:
-            n+=y
+        x = n % 10
+        y += x
+        n //= 10
+    n += y
     return n
