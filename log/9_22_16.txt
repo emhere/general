@@ -1,0 +1,22 @@
+3:30 PM 9/22/2016
+  I just learned about the MOVIEPY module, and am interested in trying it out.
+3:34 PM 9/22/2016
+  installing PYTHON 2.7 for general use (only used CODECADEMY website, prior)
+4:04 PM 9/22/2016
+  trying to figure out why ATOM ide can't find the python exe
+4:06 PM 9/22/2016
+  friend keeps talking to me in steam voice chat, aaaa
+4:13 PM 9/22/2016
+  discovered sudo for windows, debating whether I should install it or not
+4:20 PM 9/22/2016
+  downloading PIP and SETUPTOOLS
+4:29 PM 9/22/2016
+  I went to install POWERSHELL first. it's modules all the way down.
+5:03 PM 9/22/2016
+  installed PIP, which I will assume also installed SETUPTOOLS
+5:20 PM 9/22/2016
+  having minor issues when installing using pip, I should remember to type:
+  "python -m pip install package" instead of the regular "pip install package"
+  installed: moviepy, tgdm, imaageio, decorator, numpy
+5:23 PM 9/22/2016
+  reading through "Getting Started With MoviePy" + quick presentation page

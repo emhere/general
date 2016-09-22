@@ -1,0 +1,5 @@
+I will be writing in the "log" folder to detail
+certain projects, ideas, progress, etc.;
+there will be no guarantee of consistency
+between file names, files, update times, and so on
+regardless I think this may be useful for personal reference.
